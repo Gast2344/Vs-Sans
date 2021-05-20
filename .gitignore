@@ -1,0 +1,4 @@
+export/
+.vscode/
+APIStuff.hx
+assets/preload/data/nightmare/nightmare-hard.json

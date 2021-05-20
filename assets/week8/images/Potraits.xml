@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Potraits.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Chara Potrait Enter0000" x="0" y="0" width="182" height="172" frameX="0" frameY="-2" frameWidth="225" frameHeight="174"/>
+	<SubTexture name="Chara Potrait Enter0001" x="187" y="0" width="182" height="172" frameX="-30" frameY="0" frameWidth="225" frameHeight="174"/>
+	<SubTexture name="Chara Potrait Enter0002" x="187" y="0" width="182" height="172" frameX="-30" frameY="0" frameWidth="225" frameHeight="174"/>
+	<SubTexture name="Chara Potrait Enter0003" x="374" y="0" width="182" height="172" frameX="-35" frameY="0" frameWidth="225" frameHeight="174"/>
+	<SubTexture name="Chara Potrait Enter0004" x="374" y="0" width="182" height="172" frameX="-35" frameY="0" frameWidth="225" frameHeight="174"/>
+	<SubTexture name="Chara Potrait Enter0005" x="561" y="0" width="182" height="172" frameX="-43" frameY="0" frameWidth="225" frameHeight="174"/>
+	<SubTexture name="Chara Potrait Enter0006" x="561" y="0" width="182" height="172" frameX="-43" frameY="0" frameWidth="225" frameHeight="174"/>
+	<SubTexture name="Chara Potrait Enter0007" x="561" y="0" width="182" height="172" frameX="-43" frameY="0" frameWidth="225" frameHeight="174"/>
+	<SubTexture name="Chara Potrait Enter0008" x="561" y="0" width="182" height="172" frameX="-43" frameY="0" frameWidth="225" frameHeight="174"/>
+	<SubTexture name="Flowey Portrait Enter0000" x="748" y="0" width="174" height="149" frameX="0" frameY="-1" frameWidth="210" frameHeight="150"/>
+	<SubTexture name="Flowey Portrait Enter0001" x="0" y="177" width="174" height="149" frameX="-25" frameY="0" frameWidth="210" frameHeight="150"/>
+	<SubTexture name="Flowey Portrait Enter0002" x="0" y="177" width="174" height="149" frameX="-25" frameY="0" frameWidth="210" frameHeight="150"/>
+	<SubTexture name="Flowey Portrait Enter0003" x="179" y="177" width="174" height="149" frameX="-29" frameY="0" frameWidth="210" frameHeight="150"/>
+	<SubTexture name="Flowey Portrait Enter0004" x="179" y="177" width="174" height="149" frameX="-29" frameY="0" frameWidth="210" frameHeight="150"/>
+	<SubTexture name="Flowey Portrait Enter0005" x="358" y="177" width="174" height="149" frameX="-36" frameY="0" frameWidth="210" frameHeight="150"/>
+	<SubTexture name="Flowey Portrait Enter0006" x="358" y="177" width="174" height="149" frameX="-36" frameY="0" frameWidth="210" frameHeight="150"/>
+	<SubTexture name="Flowey Portrait Enter0007" x="358" y="177" width="174" height="149" frameX="-36" frameY="0" frameWidth="210" frameHeight="150"/>
+	<SubTexture name="Flowey Portrait Enter0008" x="358" y="177" width="174" height="149" frameX="-36" frameY="0" frameWidth="210" frameHeight="150"/>
+	<SubTexture name="Gaster Portrait Enter0000" x="537" y="177" width="248" height="175" frameX="0" frameY="-2" frameWidth="285" frameHeight="177"/>
+	<SubTexture name="Gaster Portrait Enter0001" x="0" y="357" width="248" height="175" frameX="-26" frameY="0" frameWidth="285" frameHeight="177"/>
+	<SubTexture name="Gaster Portrait Enter0002" x="0" y="357" width="248" height="175" frameX="-26" frameY="0" frameWidth="285" frameHeight="177"/>
+	<SubTexture name="Gaster Portrait Enter0003" x="253" y="357" width="248" height="175" frameX="-30" frameY="0" frameWidth="285" frameHeight="177"/>
+	<SubTexture name="Gaster Portrait Enter0004" x="253" y="357" width="248" height="175" frameX="-30" frameY="0" frameWidth="285" frameHeight="177"/>
+	<SubTexture name="Gaster Portrait Enter0005" x="506" y="357" width="248" height="176" frameX="-37" frameY="0" frameWidth="285" frameHeight="177"/>
+	<SubTexture name="Gaster Portrait Enter0006" x="506" y="357" width="248" height="176" frameX="-37" frameY="0" frameWidth="285" frameHeight="177"/>
+	<SubTexture name="Gaster Portrait Enter0007" x="506" y="357" width="248" height="176" frameX="-37" frameY="0" frameWidth="285" frameHeight="177"/>
+	<SubTexture name="Gaster Portrait Enter0008" x="506" y="357" width="248" height="176" frameX="-37" frameY="0" frameWidth="285" frameHeight="177"/>
+	<SubTexture name="Pap Portrait Enter0000" x="0" y="538" width="306" height="169" frameX="0" frameY="-2" frameWidth="343" frameHeight="171"/>
+	<SubTexture name="Pap Portrait Enter0001" x="311" y="538" width="307" height="169" frameX="-25" frameY="0" frameWidth="343" frameHeight="171"/>
+	<SubTexture name="Pap Portrait Enter0002" x="311" y="538" width="307" height="169" frameX="-25" frameY="0" frameWidth="343" frameHeight="171"/>
+	<SubTexture name="Pap Portrait Enter0003" x="623" y="538" width="306" height="169" frameX="-30" frameY="0" frameWidth="343" frameHeight="171"/>
+	<SubTexture name="Pap Portrait Enter0004" x="623" y="538" width="306" height="169" frameX="-30" frameY="0" frameWidth="343" frameHeight="171"/>
+	<SubTexture name="Pap Portrait Enter0005" x="0" y="712" width="306" height="169" frameX="-37" frameY="-1" frameWidth="343" frameHeight="171"/>
+	<SubTexture name="Pap Portrait Enter0006" x="0" y="712" width="306" height="169" frameX="-37" frameY="-1" frameWidth="343" frameHeight="171"/>
+	<SubTexture name="Pap Portrait Enter0007" x="0" y="712" width="306" height="169" frameX="-37" frameY="-1" frameWidth="343" frameHeight="171"/>
+	<SubTexture name="Pap Portrait Enter0008" x="0" y="712" width="306" height="169" frameX="-37" frameY="-1" frameWidth="343" frameHeight="171"/>
+</TextureAtlas>

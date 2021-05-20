@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="sansPotrait.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Sans Portrait Enter0000" x="0" y="0" width="222" height="149" frameX="0" frameY="-2" frameWidth="261" frameHeight="151"/>
+	<SubTexture name="Sans Portrait Enter0001" x="227" y="0" width="222" height="149" frameX="-27" frameY="0" frameWidth="261" frameHeight="151"/>
+	<SubTexture name="Sans Portrait Enter0002" x="227" y="0" width="222" height="149" frameX="-27" frameY="0" frameWidth="261" frameHeight="151"/>
+	<SubTexture name="Sans Portrait Enter0003" x="454" y="0" width="223" height="149" frameX="-31" frameY="0" frameWidth="261" frameHeight="151"/>
+	<SubTexture name="Sans Portrait Enter0004" x="454" y="0" width="223" height="149" frameX="-31" frameY="0" frameWidth="261" frameHeight="151"/>
+	<SubTexture name="Sans Portrait Enter0005" x="682" y="0" width="222" height="149" frameX="-39" frameY="0" frameWidth="261" frameHeight="151"/>
+	<SubTexture name="Sans Portrait Enter0006" x="682" y="0" width="222" height="149" frameX="-39" frameY="0" frameWidth="261" frameHeight="151"/>
+	<SubTexture name="Sans Portrait Enter0007" x="682" y="0" width="222" height="149" frameX="-39" frameY="0" frameWidth="261" frameHeight="151"/>
+	<SubTexture name="Sans Portrait Enter0008" x="682" y="0" width="222" height="149" frameX="-39" frameY="0" frameWidth="261" frameHeight="151"/>
+	<SubTexture name="Sans2 Portrait Enter0000" x="0" y="154" width="220" height="159" frameX="0" frameY="-2" frameWidth="259" frameHeight="161"/>
+	<SubTexture name="Sans2 Portrait Enter0001" x="225" y="154" width="221" height="160" frameX="-27" frameY="0" frameWidth="259" frameHeight="161"/>
+	<SubTexture name="Sans2 Portrait Enter0002" x="225" y="154" width="221" height="160" frameX="-27" frameY="0" frameWidth="259" frameHeight="161"/>
+	<SubTexture name="Sans2 Portrait Enter0003" x="451" y="154" width="221" height="160" frameX="-31" frameY="0" frameWidth="259" frameHeight="161"/>
+	<SubTexture name="Sans2 Portrait Enter0004" x="451" y="154" width="221" height="160" frameX="-31" frameY="0" frameWidth="259" frameHeight="161"/>
+	<SubTexture name="Sans2 Portrait Enter0005" x="677" y="154" width="220" height="160" frameX="-39" frameY="0" frameWidth="259" frameHeight="161"/>
+	<SubTexture name="Sans2 Portrait Enter0006" x="677" y="154" width="220" height="160" frameX="-39" frameY="0" frameWidth="259" frameHeight="161"/>
+	<SubTexture name="Sans2 Portrait Enter0007" x="677" y="154" width="220" height="160" frameX="-39" frameY="0" frameWidth="259" frameHeight="161"/>
+	<SubTexture name="Sans2 Portrait Enter0008" x="677" y="154" width="220" height="160" frameX="-39" frameY="0" frameWidth="259" frameHeight="161"/>
+	<SubTexture name="Sans3 Portrait Enter0000" x="0" y="319" width="219" height="165" frameX="0" frameY="-2" frameWidth="259" frameHeight="167"/>
+	<SubTexture name="Sans3 Portrait Enter0001" x="224" y="319" width="219" height="165" frameX="-28" frameY="0" frameWidth="259" frameHeight="167"/>
+	<SubTexture name="Sans3 Portrait Enter0002" x="224" y="319" width="219" height="165" frameX="-28" frameY="0" frameWidth="259" frameHeight="167"/>
+	<SubTexture name="Sans3 Portrait Enter0003" x="448" y="319" width="220" height="165" frameX="-32" frameY="0" frameWidth="259" frameHeight="167"/>
+	<SubTexture name="Sans3 Portrait Enter0004" x="448" y="319" width="220" height="165" frameX="-32" frameY="0" frameWidth="259" frameHeight="167"/>
+	<SubTexture name="Sans3 Portrait Enter0005" x="673" y="319" width="219" height="164" frameX="-40" frameY="-1" frameWidth="259" frameHeight="167"/>
+	<SubTexture name="Sans3 Portrait Enter0006" x="673" y="319" width="219" height="164" frameX="-40" frameY="-1" frameWidth="259" frameHeight="167"/>
+	<SubTexture name="Sans3 Portrait Enter0007" x="673" y="319" width="219" height="164" frameX="-40" frameY="-1" frameWidth="259" frameHeight="167"/>
+	<SubTexture name="Sans3 Portrait Enter0008" x="673" y="319" width="219" height="164" frameX="-40" frameY="-1" frameWidth="259" frameHeight="167"/>
+</TextureAtlas>
